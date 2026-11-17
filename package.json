@@ -1,6 +1,6 @@
 {
   "name": "quick-helper-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small, practical daily utility functions for students and beginners in JavaScript.",
   "main": "index.js",
   "types": "index.d.ts",
