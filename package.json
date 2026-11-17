@@ -1,0 +1,28 @@
+{
+  "name": "quick-helper-kit",
+  "version": "1.0.0",
+  "description": "Small, practical daily utility functions for students and beginners in JavaScript.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node --test test/test.js"
+  },
+  "keywords": [
+    "utility",
+    "helpers",
+    "students",
+    "beginner",
+    "toolkit",
+    "javascript"
+  ],
+  "author": "luffyy01 <mitjain70@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luffyy01/quick-helper-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luffyy01/quick-helper-kit/issues"
+  },
+  "homepage": "https://github.com/luffyy01/quick-helper-kit#readme"
+}

@@ -1,0 +1,14 @@
+export declare function capitalize(str: string): string;
+export declare function truncate(str: string, len?: number, end?: string): string;
+export declare function slugify(str: string): string;
+export declare function pickRandom<T>(arr: T[]): T | null;
+export declare function shuffle<T>(arr: T[]): T[];
+export declare function chunk<T>(arr: T[], size?: number): T[][];
+export declare function unique<T>(arr: T[]): T[];
+export declare function randomInt(min: number, max: number): number;
+export declare function clamp(val: number, min: number, max: number): number;
+export declare function sum(arr: number[]): number;
+export declare function average(arr: number[]): number;
+export declare function isEmpty(val: any): boolean;
+export declare function sleep(ms: number): Promise<void>;
+export declare function formatBytes(bytes: number, decimals?: number): string;
